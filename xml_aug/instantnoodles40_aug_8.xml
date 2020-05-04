@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>instantnoodles40.jpg</filename>
+	<path>G:\&#22823;&#21019;&#39033;&#30446;\image\instantnoodles40.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>330</width>
+		<height>326</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>instantnoodles</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>89</ymin>
+			<xmax>309</xmax>
+			<ymax>442</ymax>
+		</bndbox>
+	</object>
+</annotation>

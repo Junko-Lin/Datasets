@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>pen46.jpg</filename>
+	<path>G:\&#22823;&#21019;&#39033;&#30446;\image\pen46.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>232</width>
+		<height>232</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>37</ymin>
+			<xmax>349</xmax>
+			<ymax>489</ymax>
+		</bndbox>
+	</object>
+</annotation>

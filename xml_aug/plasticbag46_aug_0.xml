@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>plasticbag46.jpg</filename>
+	<path>G:\&#22823;&#21019;&#39033;&#30446;\image\plasticbag46.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>541</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plasticbag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>241</ymin>
+			<xmax>324</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>

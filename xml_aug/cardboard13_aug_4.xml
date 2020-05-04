@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>cardboard13.jpg</filename>
+	<path>G:\&#22823;&#21019;&#39033;&#30446;\image\cardboard13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cardboard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>134</ymin>
+			<xmax>292</xmax>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+</annotation>

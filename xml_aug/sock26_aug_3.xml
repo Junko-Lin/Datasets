@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>sock26.jpg</filename>
+	<path>G:\&#22823;&#21019;&#39033;&#30446;\image\sock26.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>51</ymin>
+			<xmax>367</xmax>
+			<ymax>449</ymax>
+		</bndbox>
+	</object>
+</annotation>
