@@ -1,0 +1,26 @@
+<annotation>
+	<folder>banana</folder>
+	<filename>bana_27.jpg</filename>
+	<path>D:\Rubbish\banana\bana_27.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>190</ymin>
+			<xmax>333</xmax>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>snacks</folder>
+	<filename>snacks_35.jpg</filename>
+	<path>D:\Rubbish\snacks\snacks_35.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snacks</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>74</ymin>
+			<xmax>267</xmax>
+			<ymax>488</ymax>
+		</bndbox>
+	</object>
+</annotation>

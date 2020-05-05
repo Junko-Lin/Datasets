@@ -1,0 +1,26 @@
+<annotation>
+	<folder>glove</folder>
+	<filename>glove_46.jpg</filename>
+	<path>D:\Rubbish\glove\glove_46.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>glove</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>77</ymin>
+			<xmax>220</xmax>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+</annotation>

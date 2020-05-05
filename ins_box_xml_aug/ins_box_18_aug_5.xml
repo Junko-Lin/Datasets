@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ins_noodles</folder>
+	<filename>ins_box_18.jpg</filename>
+	<path>D:\Rubbish\ins_noodles\ins_box_18.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>322</width>
+		<height>211</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ins</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>16</ymin>
+			<xmax>289</xmax>
+			<ymax>461</ymax>
+		</bndbox>
+	</object>
+</annotation>
